@@ -5,6 +5,7 @@ Tolong kerjakan sendiri sendiri dan kalau bisa hindari menggunakan chat-gpt atau
 agar kalian paham dengan pelajaran yang diberikan
 
 
-Silahkan download folder sesuai praktikum kalian dan buka foldernya di codeblock
+Silahkan download dengan klik tombol hijau bertulisan "<>Code" lalu "Download Zip".
+Jangan lupa di extract dan 
 
 Selamat Mengarjakan!! dan SEMANGATTT
