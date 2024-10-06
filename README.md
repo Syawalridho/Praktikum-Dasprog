@@ -8,4 +8,4 @@ agar kalian paham dengan pelajaran yang diberikan
 Silahkan download dengan klik tombol hijau bertulisan "<>Code" lalu "Download Zip".
 Jangan lupa di extract dan kerjakan sesuai praktikum kalian
 
-Selamat Mengarjakan!! dan SEMANGATTT
+Selamat Mengarjakan!! dan SEMANGATT
