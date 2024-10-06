@@ -1,9 +1,18 @@
-Buatkan rumus volume Bola dan berikan contoh soalnya
-
-Volume Bolah = 4/3*pi*r^3
+Buatkan algoritma untuk menghitung jumlah uang kembalian dalam pecahan.
 
 Contoh Input :
-8
+Masukkan total belanja : 134000
+Masukkan jumlah uang yang dibayar : 63000
 
 Contoh Output :
-2.143,573
+Kembalian : 71000
+
+Pecahan Uang Kembalian :
+50000 : 1
+20000 : 1
+10000 : 0
+5000  : 0 
+1000  : 1
+
+*Mohon kerjakan di laptop kalian untuk ditunjukkan pas asistensi
+**Untuk yang diisi di laporan tugas asistensi adalah source code dan penjelasan singkat
