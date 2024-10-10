@@ -1,0 +1,18 @@
+Buatlah sebuah program untuk membuat segitiga siku siku dari "*"
+
+Contoh Input :
+5
+
+Contoh Output :
+*****
+****
+***
+**
+*
+
+Contoh Input :
+2
+
+Contoh Output :
+**
+*
