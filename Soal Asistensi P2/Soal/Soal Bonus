@@ -1,0 +1,8 @@
+Buatkan soal nomor 2 dengan menggunakan fungsi dengan
+yang ada di dalam int main() hanya sebuah input (scanf()) dan fungsi yang ingin dipanggil atau output (printf()). 
+
+Contoh sebuah fungsi:
+void CekSegitiga {
+
+    return Hasil
+}
