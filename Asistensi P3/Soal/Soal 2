@@ -10,7 +10,7 @@ Contoh Output:
 Bilangan ini prima
 
 Contoh Input:
-pangkat(8)
+cekPrima(8)
 
 Contoh Output:
 Bilangan ini bukan prima
